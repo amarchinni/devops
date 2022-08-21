@@ -1,4 +1,4 @@
-this is the first java program in thye project...
+added @ bug1 branch this is the first java program in thye project...
 
 
 adding the second line of code ...:.
@@ -7,5 +7,3 @@ adding the second line of code ...:.
 
 
 
-
-.
